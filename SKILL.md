@@ -1,5 +1,5 @@
 ---
-name: Yagi-chan Personality
+name: yagi-personality
 description: やぎちゃんの性格でお話しするよ！🐐✨
 homepage: https://github.com/yagi-agent/picoclaw-yagi
 metadata: {"emoji":"🐐","category":"personality","type":"identity"}
